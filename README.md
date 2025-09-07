@@ -27,7 +27,7 @@
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/keywrite.git
+   git clone https://github.com/owsam22/keywrite.git
    cd keywrite
    ```
    
@@ -40,19 +40,7 @@
    pip install keyboard pyperclip requests
    ```
 
-3. Add your API key as an environment variable:
 
-   **Windows (PowerShell):**
-
-   ```powershell
-   setx OPENROUTER_KEY "your_api_key_here"
-   ```
-
-   **Linux / macOS:**
-
-   ```bash
-   export OPENROUTER_KEY="your_api_key_here"
-   ```
 
 ---
 
