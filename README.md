@@ -1,4 +1,3 @@
-
 <h1 align="center">✨ KeyWrite ✨</h1>
 <p align="center">
   <em>Correct, rewrite, and polish text anywhere with a simple hotkey</em>
@@ -18,10 +17,10 @@
 - 🔑 **Ctrl+Alt+V** → Correct & replace selected text  
 - 📋 **Ctrl+Alt+C** → Correct & copy to clipboard  
 - 🌍 Works system-wide in any app (browser, docs, editors, chat)  
-- ⚡ Uses [OpenRouter](https://openrouter.ai) models (DeepSeek, GPT, etc.)  
+- ⚡ Powered by [OpenRouter](https://openrouter.ai) models (DeepSeek, GPT, etc.)  
 - 🎯 Lightweight, runs in the background, no clutter  
 
-
+---
 
 ## 🛠️ Installation
 
@@ -29,7 +28,10 @@
    ```bash
    git clone https://github.com/yourusername/keywrite.git
    cd keywrite
-```
+   ```
+   
+
+
 
 2. Install dependencies:
 
@@ -71,24 +73,11 @@ Then simply highlight text anywhere and hit a hotkey 🚀
 
 ---
 
-## 📦 Build as EXE (optional)
-
-If you want a portable `.exe`:
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile keywrite.py
-```
-
-The `.exe` will be in the `dist` folder.
-
----
-
 ## 🌟 Roadmap
 
 * [ ] Customizable hotkeys
-* [ ] Dark/Light tray icon
 * [ ] Multi-language support
+* [ ] Dark/Light tray icon
 * [ ] Offline correction (future idea)
 
 ---
@@ -96,9 +85,8 @@ The `.exe` will be in the `dist` folder.
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -106,7 +94,3 @@ The `.exe` will be in the `dist` folder.
 ## 📜 License
 
 MIT License © 2025 \[Samarpan]
-
-
-
-
