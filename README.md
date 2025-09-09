@@ -41,7 +41,7 @@ If you prefer running in **VS Code** or editing the project:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/keywrite.git
+   git clone https://github.com/owsam22/keywrite.git
    cd keywrite
 
 
@@ -88,7 +88,7 @@ Now use the same hotkeys:
 
 ## 🙌 Credits
 
-Built with ❤️ by [Sam](https://github.com/yourusername).
+Built with ❤️ by [Sam](https://github.com/owsam22).
 Powered by [OpenRouter](https://openrouter.ai/).
 
 ---
@@ -96,13 +96,10 @@ Powered by [OpenRouter](https://openrouter.ai/).
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourhandle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samarpan22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 ```
 
 
 
-👉 Do you want me to also give you a **step-by-step to capture your own demo GIFs/videos** (so you can replace my placeholders with real ones of your app)?
