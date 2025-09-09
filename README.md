@@ -23,7 +23,7 @@ Select text anywhere → press a hotkey → and your text is corrected in place 
 ## 📦 Installation Options
 
 ### 🔹 Option 1: Use the Ready App (Recommended)
-1. [⬇️ Download KeyWrite App](https://example.com/KeyWriteApp.exe) 
+1.[download KeyWrite app](https://github.com/user-attachments/files/22233100/app.zip)
 2. Double-click `KeyWriteApp.exe`.  
 3. Enter your [OpenRouter API Key](https://openrouter.ai/keys) once.  
 4. Start the app → enjoy instant grammar correction with hotkeys.  
