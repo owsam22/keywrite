@@ -1,85 +1,108 @@
-<h1 align="center">✨ KeyWrite ✨</h1>
-<p align="center">
-  <em>Correct, rewrite, and polish text anywhere with a simple hotkey</em>
-</p>
 
----
+# ✨ KeyWrite
 
-## 🎥 Demo
-(will add soon)
+KeyWrite is a lightweight desktop tool that instantly **fixes grammar and rewrites text naturally** using AI.  
+Select text anywhere → press a hotkey → and your text is corrected in place or copied to clipboard.  
+
 <p align="center">
-  <!-- Replace with your gif/mp4 later -->
-  <img src="demo.gif" alt="KeyWrite Demo" width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd5Z21wM3U0bWF2ZXFpZThzY3VrdXU4N3dsY3RzM3liYzBxNTFjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/demo.gif" width="700" alt="KeyWrite Demo"/>
 </p>
 
 ---
 
 ## 🚀 Features
-- 🔑 **Ctrl+Alt+V** → Correct & replace selected text  
-- 📋 **Ctrl+Alt+C** → Correct & copy to clipboard  
-- 🌍 Works system-wide in any app (browser, docs, editors, chat)  
-- ⚡ Powered by [OpenRouter](https://openrouter.ai) models (DeepSeek, GPT, etc.)  
-- 🎯 Lightweight, runs in the background, no clutter  
+- Correct grammar and rewrite text with AI.
+- Two hotkeys:
+  - `Ctrl+Alt+V` → Correct and Replace selected text.  
+  - `Ctrl+Alt+C` → Correct and Copy to clipboard.  
+- Works in any app (Notepad, Word, Browser, etc.).
+- Simple API key setup — just paste your key once and enjoy.
 
 ---
 
-## 🛠️ Installation
+## 📦 Installation Options
+
+### 🔹 Option 1: Use the Ready App (Recommended)
+1. [⬇️ Download KeyWrite App](https://example.com/KeyWriteApp.exe) *(replace with your release link)*  
+2. Double-click `KeyWriteApp.exe`.  
+3. Enter your [OpenRouter API Key](https://openrouter.ai/keys) once.  
+4. Start the app → enjoy instant grammar correction with hotkeys.  
+
+That’s it — no coding needed!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh3ZG8zaHN5M3N4dXNxN3FvZW9mcmNwYXcyd2dqNm9xeHQzaTd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/demo-install.gif" width="700" alt="KeyWrite Install Demo"/>
+</p>
+
+---
+
+### 🔹 Option 2: Run from Source Code
+If you prefer running in **VS Code** or editing the project:  
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/owsam22/keywrite.git
+   git clone https://github.com/yourusername/keywrite.git
    cd keywrite
-   ```
-   
-
 
 
 2. Install dependencies:
 
    ```bash
-   pip install keyboard pyperclip requests
+   pip install -r requirements.txt
    ```
 
+3. Create a `.env` file in the project folder:
 
+   ```
+   OPENROUTER_KEY=your_api_key_here
+   ```
 
----
+4. Run the script:
 
-## ▶️ Usage
+   ```bash
+   python keywrite.py
+   ```
 
-Run:
+Now use the same hotkeys:
 
-```bash
-python keywrite.py
-```
-
-You’ll see:
-
-```
-Running... Press ctrl+alt+v to replace, ctrl+alt+c to copy. ESC to exit.
-```
-
-Then simply highlight text anywhere and hit a hotkey 🚀
+* `Ctrl+Alt+V` → replace selected text
+* `Ctrl+Alt+C` → copy corrected text
 
 ---
 
-## 🌟 Roadmap
+## ⚙️ Requirements
 
-* [ ] Customizable hotkeys
-* [ ] Multi-language support
-* [ ] Dark/Light tray icon
-* [ ] Offline correction (future idea)
+* Python 3.9+ (if running from source)
+* [OpenRouter API Key](https://openrouter.ai/keys)
+* Internet connection
 
 ---
 
-## 📬 Connect with Me
+## 📸 Demo Screenshots
 
 <p align="center">
-  <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/samarpan22"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <img src="assets/ui.png" width="600" alt="KeyWrite UI"/>
 </p>
 
 ---
 
-## 📜 License
+## 🙌 Credits
 
-MIT License © 2025 \[Samarpan]
+Built with ❤️ by [Sam](https://github.com/yourusername).
+Powered by [OpenRouter](https://openrouter.ai/).
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourhandle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+```
+
+
+
+👉 Do you want me to also give you a **step-by-step to capture your own demo GIFs/videos** (so you can replace my placeholders with real ones of your app)?
