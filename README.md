@@ -1,5 +1,8 @@
 # ✨ KeyWrite
 
+[![GitHub release](https://img.shields.io/github/v/release/owsam22/keywrite?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/owsam22/keywrite/releases)  
+
+
 KeyWrite is a lightweight desktop tool that instantly **fixes grammar and rewrites text naturally** using AI.  
 Select text anywhere → press a hotkey → and your text is corrected in place or copied to clipboard.  
 
