@@ -105,6 +105,6 @@ Powered by [OpenRouter](https://openrouter.ai/).
   <a href="https://github.com/owsam22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/samarpan22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-```
+
 
 
