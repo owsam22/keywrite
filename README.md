@@ -53,7 +53,8 @@ If you prefer running in **VS Code** or editing the project:
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install keyboard pyperclip requests
+
    ```
 
 3. Create a `.env` file in the project folder:
