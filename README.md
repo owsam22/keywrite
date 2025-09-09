@@ -1,4 +1,3 @@
-
 # ✨ KeyWrite
 
 KeyWrite is a lightweight desktop tool that instantly **fixes grammar and rewrites text naturally** using AI.  
@@ -16,19 +15,21 @@ Select text anywhere → press a hotkey → and your text is corrected in place 
   - `Ctrl+Alt+V` → Correct and Replace selected text.  
   - `Ctrl+Alt+C` → Correct and Copy to clipboard.  
 - Works in any app (Notepad, Word, Browser, etc.).
-- Simple API key setup — just paste your key once and enjoy.
+- Simple API key setup — paste your key once and enjoy.
 
 ---
 
 ## 📦 Installation Options
 
 ### 🔹 Option 1: Use the Ready App (Recommended)
-1.[download KeyWrite app](https://github.com/user-attachments/files/22233100/app.zip)
-2. Double-click `KeyWriteApp.exe`.  
-3. Enter your [OpenRouter API Key](https://openrouter.ai/keys) once.  
-4. Start the app → enjoy instant grammar correction with hotkeys.  
 
-That’s it — no coding needed!
+1. [⬇️ Download KeyWrite (ZIP)](https://github.com/user-attachments/files/22233100/app.zip)  
+2. Extract the `app.zip` file anywhere on your computer.  
+3. Open the folder and double-click **`KeyWriteApp.exe`**.  
+4. Enter your [OpenRouter API Key](https://openrouter.ai/keys) when asked.  
+5. Press **Start** → use hotkeys instantly!  
+
+✅ That’s it — no coding or setup required.  
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh3ZG8zaHN5M3N4dXNxN3FvZW9mcmNwYXcyd2dqNm9xeHQzaTd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/demo-install.gif" width="700" alt="KeyWrite Install Demo"/>
@@ -37,6 +38,7 @@ That’s it — no coding needed!
 ---
 
 ### 🔹 Option 2: Run from Source Code
+
 If you prefer running in **VS Code** or editing the project:  
 
 1. Clone this repo:
@@ -72,6 +74,7 @@ Now use the same hotkeys:
 
 ## ⚙️ Requirements
 
+* Windows 10/11 (for the `.exe` build)
 * Python 3.9+ (if running from source)
 * [OpenRouter API Key](https://openrouter.ai/keys)
 * Internet connection
@@ -100,6 +103,5 @@ Powered by [OpenRouter](https://openrouter.ai/).
   <a href="https://www.linkedin.com/in/samarpan22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 ```
-
 
 
